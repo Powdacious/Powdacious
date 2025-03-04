@@ -15,4 +15,9 @@ My name is Jamie Power, thank you for checking out my GitHub info.
   **Sylvester Stallone** - represents championing hope stories\
   **Detective Columbo** - played by Peter Falk, represents humility\
   *  3x things these influences have in common: They're old school, they demonstrate hard work ethic, they smoke cigars 💡
+
+This Github is really just for sharing some draft projects and ideas, as I learn how to use GitHub and different types of tech stored here.
+
+Check out my notion page for other info [jamiepower.irish](https://jamiepower.irish/)
+
 -->
