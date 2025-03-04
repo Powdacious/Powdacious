@@ -20,4 +20,6 @@ This Github is really just for sharing some draft projects and ideas, as I learn
 
 Check out my notion page for other info [jamiepower.irish](https://jamiepower.irish/)
 
+My latest contribution to Github is a Spotify feature in Google sheets: https://github.com/Powdacious/SpotifyInGoogleSheets let me know what you think
+
 -->
