@@ -3,7 +3,7 @@
 My name is Jamie Power, thank you for checking out my GitHub info.
 
 - 📍 Based in: Ireland (Éire)☘️ Specifically County Wexford
-- 🔭 I’m currently working on playing around in Github to grasp the basic stuff and making simple apps that could be used as tools for myself and others in the Product Management lifecylce
+- 🔭 I’m currently exploring how AI can help Product Management in day-to-day for things such as prototyping and feature discussion
 - 🧑‍💻 I’m currently working as a Product Owner in Fintech and am studying Digital Product Management at UCD Professional Academy
 - 💬 Ask me about Jesus Christ, what the gospel is, tell me what you think, or just ask for prayer requests 🙏
 - 📫 How to reach me: connect and DM me in LinkedIn; [linkedin.com/in/powerjamie](https://www.linkedin.com/in/powerjamie/)
