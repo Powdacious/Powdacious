@@ -22,4 +22,6 @@ Check out my notion page for other info [jamiepower.irish](https://jamiepower.ir
 
 My latest contribution to Github is a Spotify feature in Google sheets: https://github.com/Powdacious/SpotifyInGoogleSheets let me know what you think
 
+Currently working on creating a prioritization tool (using vercel) and also working on a personal cashflow trajectory app (using loveable) in provate repos.
+
 -->
