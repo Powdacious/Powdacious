@@ -2,26 +2,28 @@
 
 My name is Jamie Power, thank you for checking out my GitHub info.
 
-- 📍 Based in: Ireland (Éire)☘️ Specifically County Wexford
-- 🔭 I’m currently exploring how AI can help Product Management in day-to-day for things such as prototyping and feature discussion
-- 🧑‍💻 I’m currently working as a Product Owner in Fintech and am studying Digital Product Management at UCD Professional Academy
-- 💬 Ask me about Jesus Christ, what the gospel is, tell me what you think, or just ask for prayer requests 🙏
+- 📍 Based in: Ireland (Éire)☘️ Specifically County Wicklow
+- 🔭 I’m always exploring how AI can help Product Management in day-to-day for things such as prototyping and feature discussion
+- 🧑‍💻 I’m currently working as a Product Manager in Financial Services
 - 📫 How to reach me: connect and DM me in LinkedIn; [linkedin.com/in/powerjamie](https://www.linkedin.com/in/powerjamie/)
-- ⚡ Fun fact: I had dreadlocks in my teen years, for a white Irish kid that was uncommon, probably still is.
+- ⚡ Fun fact: as well as building things in tech, I enjoy building with my hands too, whether it's a cabin or a junk guitar
 
 ---
-💡 My influences: people who have inspired me are a bit quirky, some are even characters;\
-  **Clint Eastwood** - to me, represents authenticity, what you see is what you get\
-  **Sylvester Stallone** - represents championing hope stories\
-  **Detective Columbo** - played by Peter Falk, represents humility\
-  *  3x things these influences have in common: They're old school, they demonstrate hard work ethic, they smoke cigars 💡
+💡 Inspirations;\
+  **Sylvester Stallone** - represents championing hope stories, and perseverence\
+  **Lenny Rachitsky** - Air bnb Product Manager turned Podcast host, demonstrates the hard work of keeping your craft sharp\
+  **Detective Columbo** - ficitonal, but still much to glean, played by Peter Falk, represents humility\
 
-This Github is really just for sharing some draft projects and ideas, as I learn how to use GitHub and different types of tech stored here.
 
-Check out my notion page for other info [jamiepower.irish](https://jamiepower.irish/)
+Check out my notion page for other info [jamiepower.irish](https://tangible-zucchini-c4c.notion.site/Hey-I-m-Jamie-1ab542c014ec80778eb9e3e3a067cc0d)
 
-My latest contribution to Github is a Spotify feature in Google sheets: https://github.com/Powdacious/SpotifyInGoogleSheets let me know what you think
+Public facing work that you'll find here:
 
-Currently working on creating a prioritization tool (using vercel) and also working on a personal cashflow trajectory app (using loveable) in provate repos.
+** Spotify "get link" feature for Google sheets: https://github.com/Powdacious/SpotifyInGoogleSheets
+** Prioritization visual tool 
+
+Currently working on a personal cashflow trajectory app  in private repos and workflow tools in n8n and antigravity
+
+Open to Product Manager roles, see what colleagues say about me in the recommendations section
 
 -->
