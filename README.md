@@ -17,10 +17,10 @@ My name is Jamie Power, thank you for checking out my GitHub info.
 
 Check out my notion page for other info [jamiepower.irish](https://tangible-zucchini-c4c.notion.site/Hey-I-m-Jamie-1ab542c014ec80778eb9e3e3a067cc0d)
 
-Public facing work that you'll find here:
+Public facing work that you'll find here and can use:
 
-** Spotify "get link" feature for Google sheets: https://github.com/Powdacious/SpotifyInGoogleSheets
-** Prioritization visual tool 
+- Spotify "get link" feature for Google sheets: https://github.com/Powdacious/SpotifyInGoogleSheets  
+- Prioritization visual tool https://github.com/Powdacious/Priority-mapping
 
 Currently working on a personal cashflow trajectory app  in private repos and workflow tools in n8n and antigravity
 
